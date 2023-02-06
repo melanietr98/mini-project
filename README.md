@@ -1,7 +1,7 @@
 ## 🌟 SPACE BATTLE GAME
 space battle game built with javascript
 
-Today's task is to build something according to specification. Pretend you have received the specification below for a class project. Planning your program is a challenge unto itself. START SIMPLE. Break the problem down as far as you can and don't move on until the smallest piece works.
+<h2> Objective ❗ </h2>  Today's task is to build something according to specification. Pretend you have received the specification below for a class project. Planning your program is a challenge unto itself. START SIMPLE. Break the problem down as far as you can and don't move on until the smallest piece works.
 Once you've figured out the basics, it's up to you to make the game you want, but remember, your game does not have to be elegant. The only thing that matters is that it works.
 
 
